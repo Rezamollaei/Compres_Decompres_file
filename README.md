@@ -1,2 +1,1 @@
-# Compres_Decompres_file
- 
+This C program performs basic file compression and decompression. It reads a source file, compresses repeated characters using a run-length encoding method, and writes the compressed content to a file. It can also decompress the file back to its original form. The program uses file handling, character manipulation, and logic to achieve efficient data processing.
